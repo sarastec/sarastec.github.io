@@ -4,5 +4,9 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', "@nuxt/image"],
   routeRules: {
     '/projects': {redirect: '/projects/resume_website'}
+  },
+  app: {
+    baseURL: '/sara_stec_resume_website/',
+    buildAssetsDir: 'assets'
   }
 })

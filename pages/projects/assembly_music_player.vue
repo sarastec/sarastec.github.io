@@ -9,7 +9,7 @@
         Please note that all of the music belongs to the respective composers. The arrangements used in this music player were made by me.
     </div>
     <div class="font-semibold">
-        GitHub link to the project and launch instruction are in progress!
+        Link to the Github project and launch instruction are in progress!
     </div>
 </template>
 
@@ -17,11 +17,11 @@
     definePageMeta({
         layout: 'projects'
     })
-
 </script>
 
 <style scoped>
     div {
         padding-bottom: 1rem;
+        display: flex;
     }
 </style>

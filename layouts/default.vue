@@ -8,8 +8,7 @@
                 </div>
                 <div class="navtab text-xl flex justify-center space-x-11 p-5 w-full text-zinc-500">
                     <hr class="w-64 h-px my-4 border-0 dark:bg-zinc-500">
-                    <NuxtLink to="/" class="hover:text-black">Home</NuxtLink>
-                    <NuxtLink to="/about" class="hover:text-black">About</NuxtLink>
+                    <NuxtLink to="/" class="hover:text-black">About</NuxtLink>
                     <NuxtLink to="/projects/resume_website" class="hover:text-black">Projects</NuxtLink>
                     <NuxtLink to="/contact" class="hover:text-black">Contact</NuxtLink>
                     <NuxtLink to="/resume" class="hover:text-black">Resume</NuxtLink>

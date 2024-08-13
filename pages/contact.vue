@@ -4,24 +4,29 @@
             My contact information
         </div>
         <div>
-            e-mail: sara.stec1002@gmail.com
+            e-mail: <p class="font-semibold">sara.stec1002@gmail.com</p>
         </div>
         <div>
-            Phone number: +48 728 499 263
+            Phone number: <p class="font-semibold">+48 728 499 263</p>
         </div>
         <div>
-            GitHub:
-            <NuxtLink to="https://github.com/koteczki01" class="font-semibold">koteczki01</NuxtLink>
+            LinkedIn:<br>
+            <a href="https://www.linkedin.com/in/sara-stec-2aa42228a/" target="_blank" class="font-semibold link">Sara Stec</a>
         </div>
         <div>
-            LinkedIn:
-            <NuxtLink to="https://www.linkedin.com/in/sara-stec-2aa42228a/" class="font-semibold">Sara Stec</NuxtLink>
+            GitHub:<br>
+            <a href="https://github.com/sarastec" target="_blank" class="font-semibold link">sarastec</a>
+        </div>
+        <div>
+            itch.io:<br>
+            <a href="https://unusualcoding.itch.io/" target="_blank" class="font-semibold link">unusualcoding</a>
         </div>
     </div>
 </template>
 
 <style scoped>
-    div {
-        padding-bottom: 1rem;
+    p {
+        padding: 0;
+        margin: 0;
     }
 </style>

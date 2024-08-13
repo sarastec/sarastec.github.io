@@ -3,10 +3,10 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss', "@nuxt/image"],
   routeRules: {
-    '/projects': {redirect: '/projects/resume_website'}
+    '/projects': {redirect: '/projects/quanta'}
   },
   app: {
-    baseURL: '/sara_stec_resume_website/',
+    baseURL: '',
     buildAssetsDir: 'assets'
   }
 })

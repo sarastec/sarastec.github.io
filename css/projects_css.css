@@ -1,0 +1,27 @@
+p, ul, ol, div {
+    padding-bottom: 1rem;
+}
+
+h2 {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+code {
+    background-color: rgb(189, 189, 189);
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    border-radius: 3px;
+}
+
+.link {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-color: #737373;
+}
+
+.link-t:hover {
+    font-style: italic;
+}

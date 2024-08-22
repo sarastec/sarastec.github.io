@@ -4,10 +4,10 @@
             <div class="justify-center flex"><img src="~assets/sara_stec_cv.webp" alt="" class="object-cover"/></div>
         </div>
         <div class="flex w-full p-1 justify-center">
-            Warning! This resume is outdated. I will update the website with the new resume as soon as it's ready.
+            The resume is currently only available in Polish. English version is coming soon.
         </div>
         <div class="flex w-full p-1 justify-center font-semibold">
-            Download the pdf version <a href="Sara_Stec_CV.pdf" download class="ml-1 link">here.</a>
+            Download the pdf version <a href="https://sarastec.github.io/assets/Sara_Stec_CV.pdf" download class="ml-1 link">here.</a>
         </div>
     </div>
 </template>

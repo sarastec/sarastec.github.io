@@ -13,9 +13,9 @@
         This is a simple music player for MS-DOS written in Assembly as an extra credit project for Computer Architecture course at Warsaw University of Life Sciences. It has three built-in video game OST pieces:
     </p>
     <ol class="list-decimal ml-10">
-        <li>Fallen Down - Toby Fox (from "Undertale")</li>
-        <li>Sunlight Through Water - Bill Kiley (from "Why Am I Dead At Sea")</li>
-        <li>$4cr1f1c14|_ - Danny Baranowsky (from "The Binding of Isaac")</li>
+        <li><i>Fallen Down</i> - Toby Fox (from "Undertale")</li>
+        <li><i>Sunlight Through Water</i> - Bill Kiley (from "Why Am I Dead At Sea")</li>
+        <li><i>$4cr1f1c14|_</i> - Danny Baranowsky (from "The Binding of Isaac")</li>
     </ol>
     <p>
         It's written in a way that adding new pieces of music is easy and straighforward.

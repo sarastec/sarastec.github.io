@@ -1,6 +1,6 @@
 <template>
     <h1 class="text-xl font-semibold">
-        Personal Website
+        Portfolio Website
     </h1>
     <h2>
         Link to the Github repository:

@@ -27,8 +27,8 @@
                     <RouterLink to="/projects/slimebeats">A small rhythm game made in Unity.</RouterLink>
                 </div>
                 <div class="tab hover:text-black">
-                    <RouterLink to="/projects/personal_website" class="text-xl">Personal Website</RouterLink><br>
-                    <RouterLink to="/projects/personal_website">The website you're looking at right now!</RouterLink>
+                    <RouterLink to="/projects/portfolio_website" class="text-xl">Portfolio Website</RouterLink><br>
+                    <RouterLink to="/projects/portfolio_website">The website you're looking at right now!</RouterLink>
                 </div>
                 <div class="tab hover:text-black">
                     <RouterLink to="/projects/assembly_music_player" class="text-xl">Assembly Music Player</RouterLink><br>

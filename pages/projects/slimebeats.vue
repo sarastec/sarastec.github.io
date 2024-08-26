@@ -83,5 +83,4 @@
     definePageMeta({
         layout: 'projects'
     })
-
 </script>
